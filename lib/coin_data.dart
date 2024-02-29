@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:bitcoin_ticker_flutter/services/networking.dart';
 
-const apiKey = '31C6A20E-2D92-4C2F-92D6-93340DCBE168';
+const apiKey = '';
 const restCoinURL = 'https://rest.coinapi.io/v1/exchangerate/';
 
 const List<String> currenciesList = [
